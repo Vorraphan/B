@@ -6,4 +6,4 @@ st.text("HI")
 
 import streamlit as st
 
-st.image("https://www.mdxblog.io/blog/how-to-use-images-in-an-mdx-or-markdown-file.jpg", caption='Image from URL')
+st.image("https://pixabay.com/illustrations/just-art-word-6157073/.jpg", caption='Image')
